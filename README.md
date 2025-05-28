@@ -66,3 +66,5 @@ My goal is to become a data scientist who not only understands algorithms but al
 📊 Tools & Topics I’m exploring: Python • Pandas • NumPy • Scikit-learn • Matplotlib • SQL • Deep Learning
 
 Email - Chandrasena217@gmail.com
+---
+![certificate](https://github.com/Chandrasena217/BCGX-Data-Science-Virtual-Internship/blob/main/BCG%20certificate_page-0001.jpg)
